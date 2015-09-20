@@ -1,3 +1,3 @@
 # lobaba-repo
 Learning Repo
-My first repo comment. Chcek it
+My first repo comment. Check it
